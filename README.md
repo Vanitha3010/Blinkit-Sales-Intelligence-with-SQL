@@ -12,6 +12,16 @@ Understand regional and yearly sales trends.
 Classify outlet performance (High / Medium / Low).
 
 Predict future sales behavior based on historical trends.
+# Key Metrics Tracked
+Total Revenue & Items Sold: Aggregate sales and unique items sold across all records.
+
+Sales by Category: Revenue breakdown by item type, outlet size, and fat content.
+
+Trends & Patterns: Yearly sales trends, top-performing items, and outlet types.
+
+Performance Insights: Outlet classification (High/Medium/Low), rating analysis, and visibility impact.
+
+Advanced Insights: Sales prediction by year and most profitable item-outlet combinations.
 
 # Tools & Technologies
 SQL (Structured Query Language)
@@ -19,3 +29,4 @@ SQL (Structured Query Language)
 MySQL / PostgreSQL / SQLite (compatible with any RDBMS)
 
 Data Source: Simulated Blinkit retail sales dataset
+
